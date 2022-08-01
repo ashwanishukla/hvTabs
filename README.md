@@ -11,6 +11,8 @@ This is an open-source contribution from my side to the dev community.
 
 At this time I don't have any idea about the standards or licenses.
 
+#Requires
+This plugin requires *jquery.ui* and *jquery.widget*
 # Created On
 June, 2014
 # Author
