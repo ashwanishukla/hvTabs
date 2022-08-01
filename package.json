@@ -1,0 +1,29 @@
+{
+  "name": "jquery.ui.widget.hvtabs",
+  "version": "1.0.0",
+  "description": "This widget plugin has been developed in order to overcome the boundations of *jTabs* with structural dependency of <ul>-<li>-<div>-<a>",
+  "main": "ash.hvTabs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashwanishukla/hvTabs.git"
+  },
+  "keywords": [
+    "tabs",
+    "horizontal",
+    "vertical",
+    "navigation",
+    "software",
+    "next",
+    "tabbing",
+    "tab"
+  ],
+  "author": "Ashwani Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwanishukla/hvTabs/issues"
+  },
+  "homepage": "https://github.com/ashwanishukla/hvTabs#readme"
+}
